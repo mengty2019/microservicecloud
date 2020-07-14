@@ -1,6 +1,6 @@
 server:
-  port: 8001
-  
+  port: 80011
+
 mybatis:
   config-location: classpath:mybatis/mybatis.cfg.xml        # mybatis配置文件所在路径
   type-aliases-package: com.wpx.pojo    # 所有Entity别名类所在包
